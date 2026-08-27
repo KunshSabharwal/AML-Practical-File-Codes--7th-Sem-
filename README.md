@@ -7,3 +7,7 @@
 ## Practical 2 - 13/8/26
 
 - Utilize pre-trained models and perform transfer learning to solve real-world problems efficiently
+
+## Practical 3 - 27/8/26
+
+- Implement a GAN to generate synthetic data and explore its applications in image generation and data augmentation
