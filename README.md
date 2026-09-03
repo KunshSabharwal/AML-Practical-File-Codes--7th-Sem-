@@ -11,3 +11,7 @@
 ## Practical 3 - 27/8/26
 
 - Implement a GAN to generate synthetic data and explore its applications in image generation and data augmentation
+
+## Practical 4 - 3/9/26
+
+- Apply NLP techniques to process and analyze textual data, including sentiment analysis and named entity recognition
