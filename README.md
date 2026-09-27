@@ -15,3 +15,7 @@
 ## Practical 4 - 3/9/26
 
 - Apply NLP techniques to process and analyze textual data, including sentiment analysis and named entity recognition
+
+## Practical 5 - 17/9/26
+
+- Build RL agents and train them using OpenAI Gym or Stable Baselines to solve challenging tasks
