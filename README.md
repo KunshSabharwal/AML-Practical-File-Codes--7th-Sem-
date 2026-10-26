@@ -20,6 +20,14 @@
 
 - Build RL agents and train them using OpenAI Gym or Stable Baselines to solve challenging tasks
 
-## Practical 6 - 17/9/26
+## Practical 6 - 15/10/26
+
+- Understand the interpretability of ML models by using LIME or SHAP to explain model predictions
+
+## Practical 7 - 22/10/26
+
+- Understand the interpretability of ML models by using LIME or SHAP to explain model predictions
+
+## Practical 8 - 29/10/26
 
 - Understand the interpretability of ML models by using LIME or SHAP to explain model predictions
