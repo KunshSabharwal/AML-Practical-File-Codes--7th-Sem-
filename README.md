@@ -24,10 +24,26 @@
 
 - Understand the interpretability of ML models by using LIME or SHAP to explain model predictions
 
-## Practical 7 - 22/10/26
+## Practical 7 - 15/10/26
 
-- Understand the interpretability of ML models by using LIME or SHAP to explain model predictions
+- Use AutoML and Hyperparameter tuning tools to automate the model selection and optimization process
 
-## Practical 8 - 29/10/26
+## Practical 8 - 22/10/26
 
-- Understand the interpretability of ML models by using LIME or SHAP to explain model predictions
+- Analyze time series data, perform forecasting, and evaluate model performance using Prophet or stats-models
+
+## Practical 9 - 22/10/26
+
+- Compress and quantize large ML models to make them suitable for deployment on resource constrained devices
+
+## Practical 10 - 29/10/26
+
+- Explore federated learning concepts and implement distributed ML models using TensorFlow Federated
+
+## Practical 11 - 29/10/26
+
+- Generate adversarial attacks on ML models and implement defense mechanisms to enhance model robustness
+
+## Practical 12 - 5/11/26
+
+- Utilize Ray Tune to perform hyperparameter search and optimize ML models efficiently
